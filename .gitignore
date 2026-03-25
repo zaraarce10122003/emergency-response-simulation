@@ -1,0 +1,10 @@
+# IntelliJ files
+.idea/
+*.iml
+
+# Compiled files
+out/
+*.class
+
+# Mac files
+.DS_Store
